@@ -1,0 +1,154 @@
+----------------2024/11/21 21:09:40 - Log Start----------------
+2024-11-21 21:10:29 [Command] what is the date
+2024-11-21 21:10:37 [Command] tell me the time
+2024-11-21 21:10:51 [Command] tell me a joke
+2024-11-21 21:11:01 [Command] what is the weather in pune
+2024-11-21 21:12:14 [Command] can you play music
+2024-11-21 21:12:32 [Command] ask me a riddle
+2024-11-21 21:12:49 [Command] take a screenshot
+2024-11-21 21:13:53 [Command] can you send a message
+2024-11-21 21:15:46 [Command] send a message
+2024-11-21 21:16:49 [Command] open google classroom
+2024-11-21 21:17:07 [Command] open chat gpd
+2024-11-21 21:17:22 [Command] open chat gpt
+2024-11-21 21:17:42 [Command] open google
+---------------------------------------------------------------
+----------------2024/11/22 00:18:27 - Log Start----------------
+2024-11-22 00:18:45 [Command] i am in a bad mood today
+----------------2024/11/22 00:25:58 - Log Start----------------
+----------------2024/11/22 00:27:18 - Log Start----------------
+----------------2024/11/22 00:35:33 - Log Start----------------
+----------------2024/11/22 00:38:30 - Log Start----------------
+----------------2024/11/22 00:39:52 - Log Start----------------
+----------------2024/11/22 00:42:18 - Log Start----------------
+----------------2024/11/22 00:47:10 - Log Start----------------
+2024-11-22 00:47:42 [Command] send a whatsapp
+2024-11-22 00:48:21 [Command] send a message on whatsapp
+2024-11-22 00:50:37 [Command] play music
+2024-11-22 00:50:47 [Command] tell me the time
+2024-11-22 00:51:16 [Command] search on wikipedia
+2024-11-22 00:51:42 [Command] bhosdi wali harry potter kaise nahin hai wikipedia per
+2024-11-22 00:52:00 [Command] take a screenshot
+2024-11-22 00:56:15 [Command] play music
+---------------------------------------------------------------
+
+----------------2024/11/22 00:58:01 - Log Start----------------
+----------------2024/11/22 01:00:40 - Log Start----------------
+----------------2024/11/22 01:02:17 - Log Start----------------
+2024-11-22 01:02:46 [Command] send a whatsapp message
+----------------2024/11/22 01:03:17 - Log Start----------------
+----------------2024/11/22 01:05:59 - Log Start----------------
+2024-11-22 01:06:23 [Command] send a message
+2024-11-22 01:08:03 [Command] send a message
+2024-11-22 01:09:36 [Command] time bata time
+2024-11-22 01:09:45 [Command] aaj ki date bhi bata de
+2024-11-22 01:10:10 [Command] wikipedia mein kuchh dhundhengi
+2024-11-22 01:10:32 [Command] open lenovo
+----------------2024/11/22 01:12:11 - Log Start----------------
+2024-11-22 01:12:26 [Command] open lenovo
+2024-11-22 01:12:43 [Command] open python
+2024-11-22 01:13:04 [Command] open chat gpt
+2024-11-22 01:13:21 [Command] open duo model
+2024-11-22 01:13:43 [Command] open iiit v i c
+2024-11-22 01:13:58 [Command] open our college website
+2024-11-22 01:14:13 [Command] open our institute website
+----------------2024/11/22 01:14:42 - Log Start----------------
+2024-11-22 01:14:54 [Command] open institute website
+2024-11-22 01:15:11 [Command] open google classroom
+2024-11-22 01:15:30 [Command] open model
+2024-11-22 01:15:52 [Command] open m o o d l e
+2024-11-22 01:16:05 [Command] open model
+2024-11-22 01:19:46 [Command] play music
+2024-11-22 01:19:56 [Command] take a screenshot
+2024-11-22 01:20:12 [Command] tell me the weather of di
+2024-11-22 01:20:32 [Command] tell me the weather of diu
+2024-11-22 01:20:46 [Command] tell me a joke
+----------------2024/11/22 01:22:13 - Log Start----------------
+----------------2024/11/22 01:24:21 - Log Start----------------
+----------------2024/11/22 01:26:45 - Log Start----------------
+2024-11-22 01:27:28 [Command] google tell me who are you
+----------------2024/11/22 01:28:55 - Log Start----------------
+2024-11-22 01:31:37 [Command] tell me a joke
+2024-11-22 01:32:01 [Command] ask me a riddle
+2024-11-22 01:32:25 [Command] tell me the weather in diu
+2024-11-22 01:33:02 [Command] send message
+----------------2024/11/22 01:38:39 - Log Start----------------
+2024-11-22 01:39:05 [Command] send a message
+----------------2024/11/22 01:40:14 - Log Start----------------
+2024-11-22 01:40:38 [Command] send a message
+2024-11-22 01:41:00 [Command] send a message
+2024-11-22 01:41:34 [Command] send a message
+---------------------------------------------------------------
+
+----------------2024/11/22 01:45:08 - Log Start----------------
+----------------2024/11/22 01:45:33 - Log Start----------------
+----------------2024/11/22 01:45:46 - Log Start----------------
+----------------2024/11/22 01:46:00 - Log Start----------------
+----------------2024/11/22 09:45:13 - Log Start----------------
+2024-11-22 09:45:59 [Command] send a message
+2024-11-22 09:47:08 [Command] open chat gpt
+2024-11-22 09:49:43 [Command] what is the time
+2024-11-22 09:49:53 [Command] tell me today's date
+2024-11-22 09:50:19 [Command] jeera who are you
+----------------2024/11/22 09:51:17 - Log Start----------------
+----------------2024/11/22 09:52:27 - Log Start----------------
+----------------2024/11/22 09:54:15 - Log Start----------------
+2024-11-22 09:54:43 [Command] send a whatsapp message
+----------------2024/11/22 09:55:38 - Log Start----------------
+2024-11-22 09:56:05 [Command] send a message
+----------------2024/11/22 09:56:28 - Log Start----------------
+2024-11-22 09:56:53 [Command] send a whatsapp message
+2024-11-22 09:57:16 [Command] send a whatsapp message
+2024-11-22 09:58:25 [Command] take a screenshot
+----------------2024/11/22 10:00:25 - Log Start----------------
+2024-11-22 10:01:23 [Command] send a whatsapp message
+2024-11-22 10:03:22 [Command] play some music
+2024-11-22 10:04:05 [Command] play music again
+2024-11-22 10:05:14 [Command] play music
+2024-11-22 10:06:06 [Command] play music
+2024-11-22 10:08:07 [Command] play music
+2024-11-22 10:08:38 [Command] tell me a riddle
+---------------------------------------------------------------
+----------------2024/11/22 10:10:16 - Log Start----------------
+2024-11-22 10:10:26 [Command] tell me a joke
+----------------2024/11/22 10:11:41 - Log Start----------------
+2024-11-22 10:11:51 [Command] tell me a joke
+2024-11-22 10:12:42 [Command] open lenovo
+2024-11-22 10:13:04 [Command] open whatsapp
+2024-11-22 10:14:09 [Command] open whatsapp
+----------------2024/11/22 10:14:20 - Log Start----------------
+2024-11-22 10:14:30 [Command] open whatsapp
+2024-11-22 10:14:52 [Command] open whatsapp
+2024-11-22 10:15:21 [Command] send a message
+2024-11-22 10:15:55 [Command] send a message
+2024-11-22 10:16:45 [Command] send a message
+----------------2024/11/22 10:17:47 - Log Start----------------
+2024-11-22 10:18:20 [Command] send a message
+----------------2024/11/22 10:21:01 - Log Start----------------
+2024-11-22 10:21:12 [Command] how is the weather in diu
+2024-11-22 10:21:33 [Command] tell me a joke
+2024-11-22 10:21:56 [Command] ask me a riddle
+---------------------------------------------------------------
+
+----------------2024/11/22 10:22:25 - Log Start----------------
+----------------2024/11/22 10:37:23 - Log Start----------------
+----------------2024/11/22 12:06:01 - Log Start----------------
+2024-11-22 12:06:36 [Command] play some music
+2024-11-22 12:07:11 [Command] take a screenshot
+2024-11-22 12:07:44 [Command] send a message
+2024-11-22 12:09:16 [Command] open google classroom
+2024-11-22 12:09:31 [Command] open chat ppt
+2024-11-22 12:09:45 [Command] open chat gpt
+2024-11-22 12:09:58 [Command] what is the weather in
+2024-11-22 12:10:07 [Command] what is the weather in diu
+2024-11-22 12:10:28 [Command] tell me the time
+2024-11-22 12:10:52 [Command] tell me the date
+---------------------------------------------------------------
+
+----------------2024/11/22 12:11:24 - Log Start----------------
+---------------------------------------------------------------
+
+----------------2024/11/22 12:28:42 - Log Start----------------
+2024-11-22 12:28:52 [Command] search on wikipedia
+----------------2024/11/22 12:30:13 - Log Start----------------
+2024-11-22 12:30:23 [Command] search on wikipedia
